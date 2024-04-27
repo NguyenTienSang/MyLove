@@ -169,7 +169,7 @@ body {
 
 .text {
     position: absolute;
-    top: 0;
+    top: -32px;
     width: 230px;
     background-color: #ec9c4a;
     padding: 20px;
